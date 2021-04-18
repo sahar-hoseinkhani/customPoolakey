@@ -39,3 +39,7 @@ app/build/*
 *.apk
 app/production
 app/release
+poolakey-rx/*
+poolakey-rx3/*
+poolakey-rxbase/*
+settings.gradle
