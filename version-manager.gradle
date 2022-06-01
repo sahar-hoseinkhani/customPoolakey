@@ -19,12 +19,12 @@ ext {
     ]
 
     buildVersions = [
-            'compileSdkVersion': 29,
+            'compileSdkVersion': 32,
             'buildToolsVersion': '29.0.3',
             'minSdkVersion'    : 14,
-            'targetSdkVersion' : 29
+            'targetSdkVersion' : 32
     ]
 
-    poolakeyVersion = "1.0.0-beta01"
+    poolakeyVersion = "1.0.1-beta01"
 
 }
